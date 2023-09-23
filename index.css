@@ -1,0 +1,11 @@
+p{
+    background-color: rgb(76, 69, 100);
+    color: white;
+    width: 200px;
+    padding: 20px;
+    border: 1px solid transparent;
+    font-size: 15px;
+    border-radius: 30px;
+    text-align: center;
+    cursor: pointer;
+}
